@@ -9,5 +9,5 @@ Discord Gen/Stock bot written in python now open source.
 * Click on `start.bat`
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
