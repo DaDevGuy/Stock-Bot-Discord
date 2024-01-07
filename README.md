@@ -11,3 +11,5 @@ Discord Gen/Stock bot written in python now open source.
 ```
 pip install -r requirements.txt
 ```
+
+Note: **Project Under Development**
